@@ -1,0 +1,77 @@
+
+#logo {
+	border-right: solid black 1px;
+    padding:0px 10px 0px 0px;
+}
+
+#smalllogo {
+/*    border-right: solid black 1px;*/
+    padding:0px 10px 0px 0px;
+    text-decoration: none;
+    width:20px;
+
+}
+
+p {
+    font-size: 150%;
+    margin: 0px 20% 15px 20%;
+}
+.listline {
+    min-width: 700px;
+    font-size: 125%;
+    margin: 0px 20% 15px 20%;
+    overflow: visible;
+/*    text-indent: -1em;*/
+}
+.listline  div {
+    margin-left: 30px;
+}
+h1 {
+	background-color: white;
+    color: rgb(0, 204, 115);
+	text-align: center;
+    margin:0px 0px 10px 0px;
+    padding: 15px 0px 10px 0px;
+    border-bottom: 1px solid lightgray;	
+}
+
+h3 {
+	text-align: center;
+    margin: 0px 0px 20px 0px;
+    padding: 15px 0px 0px 0px;
+    border-bottom: 1px solid lightgray;	
+    font-size: 150%;
+}
+
+button {
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 2px;
+}
+
+
+body {
+	background-color: rgb(234, 236, 239);
+	font-family: Raleway;
+	height: 100%;
+    overflow: auto;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+
+}
+.stars {
+    color: rgb(0, 204, 115);
+    text-shadow: 2px 2px yellow;
+}
+
+#pagebottom {
+	color: black;
+	height: 50px;
+	background-color: white;
+	text-align: center;
+    margin:400px 0px 0px 0px;
+    padding: 15px 0px 15px 0px;
+    border-top: 1px solid lightgray;
+    bottom: 0px;
+    width: 100%;
+}
